@@ -1,2 +1,2 @@
 # omixnavigator-docker-images
-docker iages for omixs navigator project
+docker images for omixs navigator project
